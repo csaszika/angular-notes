@@ -1,0 +1,20 @@
+- Kyton:
+	- git emlekek
+	- angular + typescript alapok(Maximillian)
+- petrusz2002
+	- git alapok
+	- css, html
+	- nodejs, php
+- Lajos
+	- junior dev
+	- sourcetree - git merge + rebase(kisebb issuek)
+	- http tiszta
+	- js, css, html alapok
+	- angular(13-15-16) nap mint nap
+- David = Zsolti
+	- git ismeretlen
+	- html, css foglalkozas
+	- js ismeretlen
+- Ckody
+	- js emlekek
+	- git alapok
