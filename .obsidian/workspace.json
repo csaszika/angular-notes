@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "71f00caf6e0d5792",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Versioning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "Versioning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "Versioning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md"
+                "file": "Versioning.md"
               }
             }
           }
@@ -146,12 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21ed5fdcb76d8903",
+  "active": "71f00caf6e0d5792",
   "lastOpenFiles": [
-    "Team.md",
     "Git.md",
-    "Untitled.canvas",
-    "Untitled.md",
+    "Versioning.md",
+    "fnvnr.md",
+    "Team.md",
     "Csaszi.md"
   ]
 }
